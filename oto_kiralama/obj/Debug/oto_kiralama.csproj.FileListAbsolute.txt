@@ -1,0 +1,74 @@
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\bin\Debug\oto_kiralama.exe.config
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\bin\Debug\oto_kiralama.exe
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\bin\Debug\oto_kiralama.pdb
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.csprojAssemblyReference.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.menu.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.Properties.Resources.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.csproj.GenerateResource.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.exe
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.pdb
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.arac_islemleri.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.arac_kiralama_islemi.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.arac_teslim_alma_islemi.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.musteri_islemleri.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.csproj.ResolveComReference.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.giris_ekranı.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.kira_sözleşme.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\oto_kiralama_yönetim_sistemi\oto_kiralama\obj\Debug\oto_kiralama.arama_ekranı.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.ResolveComReference.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arac_islemleri.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arama_ekranı.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.giris_ekranı.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arac_kiralama_islemi.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arac_teslim_alma_islemi.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.kira_sözleşme.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.menu.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.musteri_islemleri.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.Properties.Resources.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.GenerateResource.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.exe
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.pdb
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\bin\Debug\oto_kiralama.exe.config
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\bin\Debug\oto_kiralama.exe
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\bin\Debug\oto_kiralama.pdb
+C:\Users\ATASANBİLİŞİM\Desktop\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csprojAssemblyReference.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\bin\Debug\oto_kiralama.exe.config
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\bin\Debug\oto_kiralama.exe
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\bin\Debug\oto_kiralama.pdb
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.ResolveComReference.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arac_islemleri.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arama_ekranı.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.giris_ekranı.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arac_kiralama_islemi.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arac_teslim_alma_islemi.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.kira_sözleşme.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.menu.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.musteri_islemleri.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.Properties.Resources.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.GenerateResource.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.exe
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.pdb
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.kullanici_olustur.resources
+C:\Users\ATASANBİLİŞİM\Desktop\Merve Üniversite\Sistem Analizi Proje Ödevi\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csprojAssemblyReference.cache
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\bin\Debug\oto_kiralama.exe.config
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\bin\Debug\oto_kiralama.exe
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\bin\Debug\oto_kiralama.pdb
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.AssemblyReference.cache
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.ResolveComReference.cache
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arac_islemleri.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arama_ekranı.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.giris_ekranı.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arac_kiralama_islemi.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.arac_teslim_alma_islemi.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.kira_sözleşme.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.kullanici_olustur.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.menu.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.musteri_islemleri.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.Properties.Resources.resources
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.GenerateResource.cache
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.exe
+C:\Users\MERVE\Desktop\Projelerim\Oto kiralama uygulaması\PROJE\Oto Kiralama Yönetim Sistemleri\oto_kiralama\obj\Debug\oto_kiralama.pdb
